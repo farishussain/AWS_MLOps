@@ -1,0 +1,22 @@
+{
+  "version": "20251119_161809",
+  "training_date": "2025-11-19T16:18:18.646295",
+  "data_version": "unknown",
+  "models": [
+    "Logistic Regression",
+    "Random Forest",
+    "SVM",
+    "K-Nearest Neighbors",
+    "Gradient Boosting",
+    "Random Forest (Tuned)"
+  ],
+  "champion_model": "unknown",
+  "best_test_accuracy": "unknown",
+  "feature_names": [],
+  "target_names": [],
+  "hyperparameter_tuning": {
+    "performed": false,
+    "best_params": null,
+    "improvement": null
+  }
+}
